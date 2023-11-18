@@ -15,7 +15,7 @@
 		"changelog" : "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
 	},
 	"banners" : {
-		"low" : "",
-		"high" : ""
+		"low" : "https://raw.githubusercontent.com/tansad11/custom-plugin-updater/main/wp-freighter-banner-772x250.webp",
+		"high" : "https://raw.githubusercontent.com/tansad11/custom-plugin-updater/main/wp-freighter-banner-1544x500.webp"
 	}
 }
