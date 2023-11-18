@@ -4,7 +4,7 @@
 	"author" : "<a href='https://github.com/niamin-niaman'>Niamin Niaman</a>",
 	"author_profile" : "https://github.com/niamin-niaman",
 	"version" : "0.0.2",
-	"download_url" : "",
+	"download_url" : "https://github.com/tansad11/custom-plugin-updater/releases/download/v0.0.1/custom-plugin-updater.zip",
 	"requires" : "3.0",
 	"tested" : "5.8",
 	"requires_php" : "5.3",
